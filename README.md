@@ -52,7 +52,7 @@ Claude Superprompt System/
 
 ## 🚀 Quick Start
 
-### How to Set Up the Project in Claude
+### How to Set Up the Project in Claude Desktop
 
 First, get all the project files onto your computer.
 
@@ -69,8 +69,24 @@ Unzip the folder if necessary and place it somewhere you can easily find. Then, 
 
 This is the simplest way to get started, and it doesn't use a dedicated Project. 
 
-1.  **Type or paste this into a new chat window:** *Tell me how to install [Desktop Commander](https://desktopcommander.app/). I do not know much about computers.*
-2.  **Open a fresh chat window. Upload `README.MD` and `SYSTEM_INSTRUCTIONS.MD` and type or paste:** *I've got Desktop Commander already installed. I am on a free subscription. Use the files attached as your system instructions and files in `C:\Your_Folder_Path\Claude-Superprompt-System` as your sources*
+1.  **Type or paste this into a new chat window:**
+
+```
+Tell me how to install Desktop Commander from https://desktopcommander.app/ . I do not know much about computers.
+```
+
+This will allow you to document your progress and save your templates.
+
+2.  **Open a fresh chat window. Upload `README.MD` and `SYSTEM_INSTRUCTIONS.MD` and type or paste (change the folder path to match with your downloaded files):**
+
+```
+I've got Desktop Commander already installed. I am on a free subscription.
+Use `SYSTEM_INSTRUCTIONS.MD` as your system instructions.
+Use  files in `C:\Your_Folder_Path\Claude-Superprompt-System` as your sources.
+```
+
+This should initialise the dialogue. If it doesn't, tell Claude to initialise using `SYSTEM_INSTRUCTIONS.MD`
+
 3.  **Start chatting.**
 
 ---
@@ -84,7 +100,7 @@ This method uses Claude's "Projects" feature for the most reliable performance.
     * **Option A (Upload):** Upload all the downloaded files directly into the new Project.
     * **Option B (Use a Tool):** Use a tool like [Desktop Commander](https://desktopcommander.app/) to point Claude to the folder where you saved the files.
 3.  **Set the System Prompt:**
-    * Open the file named `SYSTEM_INSTRUCTIONS.md` on your computer.
+    * Open the file named `SYSTEM_INSTRUCTIONS.MD` on your computer.
     * Copy all the text inside that file.
     * In Claude, paste the text into the **System Prompt** field for your Project.
 4.  **Start Chatting:** You're all set. Begin your conversation with Claude.
@@ -95,6 +111,8 @@ Claude will:
 2. Ask whether you want Basic or Pro mode
 3. Guide you through any necessary setup
 4. Begin helping you master prompt engineering
+
+*If it doesn't, tell it to initialise using `SYSTEM_INSTRUCTIONS.MD`*
 
 ## 💡 Usage Examples
 

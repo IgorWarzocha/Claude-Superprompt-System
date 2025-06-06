@@ -52,15 +52,52 @@ Claude Superprompt System/
 
 ## 🚀 Quick Start
 
-### Setting Up as a Claude Project:
+### How to Set Up the Project in Claude
 
-1. **Download this entire folder** from [GitHub](https://github.com/IgorWarzocha/Claude-Superprompt-System) [ZIP File](https://github.com/IgorWarzocha/Claude-Superprompt-System/archive/refs/heads/master.zip)
-2. **Create a new Claude Project** - Pro subscription required 
-   - *Free Subscription for first-time users: upload the files directly into the chat window (not recommended, but the easiest)*
-   - *Free Subscription for advanced users: upload SYSTEM_INSTRUCTIONS.MD to the chat window and ask Claude to use the files in C:\YOUR_FOLDER_PATH (a tool similar to [Desktop Commander](https://desktopcommander.app/) required)*
-4. **Upload all files to the project** *or point Claude to your preferred folder via tools*
-5. **Paste the contents of SYSTEM_INSTRUCTIONS.md as the project's system instructions**
-6. **Start chatting!**
+First, get all the project files onto your computer.
+
+* [**Download from GitHub**](https://github.com/IgorWarzocha/Claude-Superprompt-System)
+* [**Download as a ZIP file**](https://github.com/IgorWarzocha/Claude-Superprompt-System/archive/refs/heads/master.zip)
+
+Unzip the folder if necessary and place it somewhere you can easily find. Then, follow the guide below that best fits your needs.
+
+---
+
+### Installation
+
+### Method 1: Quick & Easy (For Free Users)
+
+This is the simplest way to get started, but it doesn't use a dedicated Project. Method 2 is highly recommended. Just ask Claude to guide you how to install [Desktop Commander](https://desktopcommander.app/) and say that you do not know much about computers. Then you can upload this very README.MD file and ask it how to install it. Yes, it is that simple.
+
+1.  **Start a New Chat:** Open Claude and start a new, regular chat.
+2.  **Upload Files:** Attach all the files you downloaded directly to your first message.
+3.  **Start Chatting:** Once the files are uploaded, you can begin your conversation.
+
+---
+
+### Method 2: Advanced (For Free Users with Desktop Tools)
+
+This method requires a third-party tool that lets Claude access your local files (e.g., [Desktop Commander](https://desktopcommander.app/)).
+
+1.  **Start a New Chat:** Open Claude and begin a new chat.
+2.  **Upload Instructions:** Attach **only** the `SYSTEM_INSTRUCTIONS.md` file to your chat.
+3.  **Provide a Prompt:** Tell Claude to use the instructions from the uploaded file and to access the other project files from their folder on your computer (e.g., `C:\Your_Folder_Path\Claude-Superprompt-System`).
+
+---
+
+### Method 3: Official Project (For Claude Pro Subscribers)
+
+This method uses Claude's "Projects" feature for the most reliable performance.
+
+1.  **Create a New Project:** Open Claude and start a new Project.
+2.  **Provide Files:** You have two options:
+    * **Option A (Upload):** Upload all the downloaded files directly into the new Project.
+    * **Option B (Use a Tool):** Use a tool like [Desktop Commander](https://desktopcommander.app/) to point Claude to the folder where you saved the files.
+3.  **Set the System Prompt:**
+    * Open the file named `SYSTEM_INSTRUCTIONS.md` on your computer.
+    * Copy all the text inside that file.
+    * In Claude, paste the text into the **System Prompt** field for your Project.
+4.  **Start Chatting:** You're all set. Begin your conversation with Claude.
 
 ### First Interaction:
 Claude will:

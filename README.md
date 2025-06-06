@@ -46,7 +46,9 @@ Claude Superprompt System/
 ├── Templates/                # 15 production-ready templates
 ├── Testing_Framework/        # Validation methodology
 └── Examples/                 # Dynamic example framework
-```## 🚀 Quick Start
+```
+
+## 🚀 Quick Start
 
 ### Setting Up as a Claude Project:
 

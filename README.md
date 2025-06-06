@@ -2,6 +2,8 @@
 
 ## 🚀 Transform Your Claude Interactions with Research-Proven Techniques
 
+Skip to [Quick Start](https://github.com/IgorWarzocha/Claude-Superprompt-System?tab=readme-ov-file#-quick-start)
+
 This comprehensive system helps you master Claude prompting through interactive teaching or direct prompt creation, achieving 20-300% performance improvements based on real-world deployments.
 
 Created by **Igor Warzocha** | [LinkedIn](https://www.linkedin.com/in/igorwarzocha/) | [GitHub](https://github.com/IgorWarzocha/Claude-Superprompt-System)
@@ -52,7 +54,7 @@ Claude Superprompt System/
 
 ### Setting Up as a Claude Project:
 
-1. **Download this entire folder** from [GitHub](https://github.com/IgorWarzocha/Claude-Superprompt-System)
+1. **Download this entire folder** from [GitHub](https://github.com/IgorWarzocha/Claude-Superprompt-System) [ZIP File] https://github.com/IgorWarzocha/Claude-Superprompt-System/archive/refs/heads/master.zip
 2. **Create a new Claude Project**
 3. **Upload all files to the project**
 4. **Set SYSTEM_INSTRUCTIONS.md as the project's system instructions**

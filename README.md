@@ -59,7 +59,7 @@ Claude Superprompt System/
    - *Free Subscription for first-time users: upload the files directly into the chat window (not recommended, but the easiest)*
    - *Free Subscription for advanced users: upload SYSTEM_INSTRUCTIONS.MD to the chat window and ask Claude to use the files in C:\YOUR_FOLDER_PATH (a tool similar to [Desktop Commander](https://desktopcommander.app/) required)*
 4. **Upload all files to the project** *or point Claude to your preferred folder via tools*
-5. **Set SYSTEM_INSTRUCTIONS.md as the project's system instructions**
+5. **Paste the contents of SYSTEM_INSTRUCTIONS.md as the project's system instructions**
 6. **Start chatting!**
 
 ### First Interaction:

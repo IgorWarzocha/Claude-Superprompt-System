@@ -55,12 +55,12 @@ Claude Superprompt System/
 ### Setting Up as a Claude Project:
 
 1. **Download this entire folder** from [GitHub](https://github.com/IgorWarzocha/Claude-Superprompt-System) [ZIP File](https://github.com/IgorWarzocha/Claude-Superprompt-System/archive/refs/heads/master.zip)
-2. **Create a new Claude Project** - Pro subscription required
-   - *Free Subscription for first-time users: upload the files directly into the chat window (not recommended, but the easiest)
-   - Free Subscription for advanced users: upload SYSTEM_INSTRUCTIONS.MD to the chat window and ask Claude to use the files in C:\YOUR_FOLDER_PATH (a tool similar to [Desktop Commander](https://desktopcommander.app/) required)*
-3. **Upload all files to the project**
-4. **Set SYSTEM_INSTRUCTIONS.md as the project's system instructions**
-5. **Start chatting!**
+2. **Create a new Claude Project** - Pro subscription required 
+   - *Free Subscription for first-time users: upload the files directly into the chat window (not recommended, but the easiest)*
+   - *Free Subscription for advanced users: upload SYSTEM_INSTRUCTIONS.MD to the chat window and ask Claude to use the files in C:\YOUR_FOLDER_PATH (a tool similar to [Desktop Commander](https://desktopcommander.app/) required)*
+4. **Upload all files to the project**
+5. **Set SYSTEM_INSTRUCTIONS.md as the project's system instructions**
+6. **Start chatting!**
 
 ### First Interaction:
 Claude will:

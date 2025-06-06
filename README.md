@@ -67,25 +67,15 @@ Unzip the folder if necessary and place it somewhere you can easily find. Then, 
 
 ### Method 1: Quick & Easy (For Free Users)
 
-This is the simplest way to get started, but it doesn't use a dedicated Project. Method 2 is highly recommended. Just ask Claude to guide you how to install [Desktop Commander](https://desktopcommander.app/) and say that you do not know much about computers. Then you can upload this very README.MD file and ask it how to install it. Yes, it is that simple.
+This is the simplest way to get started, and it doesn't use a dedicated Project. 
 
-1.  **Start a New Chat:** Open Claude and start a new, regular chat.
-2.  **Upload Files:** Attach all the files you downloaded directly to your first message.
-3.  **Start Chatting:** Once the files are uploaded, you can begin your conversation.
-
----
-
-### Method 2: Advanced (For Free Users with Desktop Tools)
-
-This method requires a third-party tool that lets Claude access your local files (e.g., [Desktop Commander](https://desktopcommander.app/)).
-
-1.  **Start a New Chat:** Open Claude and begin a new chat.
-2.  **Upload Instructions:** Attach **only** the `SYSTEM_INSTRUCTIONS.md` file to your chat.
-3.  **Provide a Prompt:** Tell Claude to use the instructions from the uploaded file and to access the other project files from their folder on your computer (e.g., `C:\Your_Folder_Path\Claude-Superprompt-System`).
+1.  **Type or paste this into a new chat window:** *Tell me how to install [Desktop Commander](https://desktopcommander.app/). I do not know much about computers.*
+2.  **Open a fresh chat window. Upload `README.MD` and `SYSTEM_INSTRUCTIONS.MD` and type or paste:** *I've got Desktop Commander already installed. I am on a free subscription. Use the files attached as your system instructions and files in `C:\Your_Folder_Path\Claude-Superprompt-System` as your sources*
+3.  **Start chatting.**
 
 ---
 
-### Method 3: Official Project (For Claude Pro Subscribers)
+### Method 2: Official Project (For Claude Pro Subscribers)
 
 This method uses Claude's "Projects" feature for the most reliable performance.
 

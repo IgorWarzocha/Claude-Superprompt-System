@@ -2,6 +2,8 @@
 
 ## 🚀 Transform Your Claude Interactions with Research-Proven Techniques
 
+Now available as a fancy website with proper instructions here: [https://igorwarzocha.github.io/Claude-Superprompt-System/](https://igorwarzocha.github.io/Claude-Superprompt-System/)
+
 Skip to [Quick Start](https://github.com/IgorWarzocha/Claude-Superprompt-System?tab=readme-ov-file#-quick-start)
 
 This comprehensive system helps you master Claude prompting through interactive teaching or direct prompt creation, achieving 20-300% performance improvements based on real-world deployments.
